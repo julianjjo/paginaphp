@@ -1,0 +1,6 @@
+/ Web / paquetes /
+ / App / bootstrap *
+ / App / cache / *
+ / App / logs / *
+ / Vendor /
+ / App / config / parameters.yml
